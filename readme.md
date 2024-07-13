@@ -16,7 +16,7 @@ This bot allows users to ask for movie recommendations and receive detailed resp
 
 The project showcases my journey and learning in the AI/ML domain, demonstrating my ability to apply these technologies to real-world scenarios.
 
-You can access the bot on [Hugging Face Space](https://huggingface.co/spaces/kanad13/Movie-Recommendation-Bot).
+[Click here to access the bot!](https://huggingface.co/spaces/kanad13/Movie-Recommendation-Bot).
 
 You can look at the detailed code and its explanation below.
 
