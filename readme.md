@@ -12,13 +12,7 @@ My bot utilizes:
 - Gradio for creating an interactive web interface.
 - Hugging Face Space for deploying the bot.
 
-This bot allows users to ask for movie recommendations and receive detailed responses, using natural language processing and vector search techniques.
-
-The project showcases my journey and learning in the AI/ML domain, demonstrating my ability to apply these technologies to real-world scenarios.
-
-[Click here to access the bot!](https://huggingface.co/spaces/kanad13/Movie-Recommendation-Bot).
-
-You can look at the detailed code and its explanation below.
+[Ask the bot to recommend you a movie.](https://huggingface.co/spaces/kanad13/Movie-Recommendation-Bot)
 
 ## Project Workflow
 
